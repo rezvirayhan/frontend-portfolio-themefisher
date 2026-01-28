@@ -42,7 +42,7 @@ This project demonstrates my ability to:
 
 ## 🚀 Deployment
 
-- Live site URL: [Insert your live URL here]
+- Live site URL: [(https://frontend-portfolio-themefisher.vercel.app/)]
 
 ## 📝 Development Checklist
 
