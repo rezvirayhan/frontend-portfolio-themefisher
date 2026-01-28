@@ -3,7 +3,7 @@ import { IMAGES } from '../utils/images';
 
 const Hero = () => {
   return (
-    <header className="bg-[#171B1A] min-h-screen w-full relative">
+    <header className="bg-[#171B1A]  w-full relative">
       <div className="flex">
         <aside
           className="lg:w-22.5 hidden lg:flex flex-col bg-[url('/images/leftsidebar_bg.png')] bg-cover bg-center lg:mt-20 lg:h-120 "
