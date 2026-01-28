@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Website
 
-## Getting Started
+## Overview
 
-First, run the development server:
+This is a **responsive portfolio website** built from a Figma design. The goal of this project is to translate a visual design into a functional, accessible, and high-performance frontend application using **Next.js** and **Tailwind CSS**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🎯 Purpose
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project demonstrates my ability to:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Convert Figma designs into pixel-perfect, responsive web layouts
+- Use **Next.js** for structured frontend development
+- Apply **Tailwind CSS** for modern styling
+- Optimize performance for Google PageSpeed
+- Implement SEO and accessibility best practices
+- Maintain clean, readable, and maintainable code
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠 Technology Stack
 
-## Learn More
+- **Framework:** Next.js
+- **Styling:** Tailwind CSS
+- **Version Control:** Git & GitHub
+- **Deployment:** Netlify
 
-To learn more about Next.js, take a look at the following resources:
+## 📱 Responsive Design
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Fully responsive across mobile, tablet, and desktop
+- Layout matches Figma design specifications
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ⚡ Performance
 
-## Deploy on Vercel
+- Images are optimized and lazy-loaded
+- Minimal dependencies for faster loading
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔍 SEO & Accessibility
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Semantic HTML5 structure
+- Proper meta tags for SEO
+- Alt text for all images
+- Accessible heading hierarchy
+- ARIA attributes used where necessary
+
+## 🚀 Deployment
+
+- Live site URL: [Insert your live URL here]
+
+## 📝 Development Checklist
+
+- ✅ Fully responsive design
+- ✅ Cross-browser compatible
+- ✅ Dependencies up-to-date
+- ✅ Clean and consistent code formatting
+- ✅ Unused code removed
+- ✅ SEO best practices implemented
+- ✅ All features fully functional
+
+## Note
+
+✅✅
